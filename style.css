@@ -37,6 +37,32 @@ body{
 
 .list{
     position: relative;
-    margin-top: 700px;
+   margin-top: 700px;
+   cursor: pointer;
 
+}
+
+a{
+    color: black;
+    
+}
+
+p{
+    padding-left: 20px;
+}
+
+h1, h2, h3, h4, h5{ 
+    text-align: center;
+}
+.header{
+    font-weight: 700;
+}
+
+li{
+    float: left;
+    padding-right: 50px;
+}
+
+.detail{
+    margin-bottom: auto
 }
