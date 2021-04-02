@@ -7,17 +7,9 @@ body{
     margin-bottom: 5px;
     position: relative;
     left: 30%;
-    top: 30%;
-}
+    top: 20%;
+    padding-top: 0px;
 
-.identity{
-    text-align:center;
-    text-transform: uppercase;
-    border: 2px solid orange;
-    border-radius: 30px;
-    width: 600px;
-    margin: 0 auto 0;
-    
 }
 
 .pic{
@@ -26,8 +18,25 @@ body{
 
 }
 
+
+
+.identity{
+    color: black;
+    text-transform: uppercase;
+    background-color: orange;
+    border: 5px soli black;
+    border-radius: 50px;
+    font-size: large;
+    width: 30%; 
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+       
+}
+
 .list{
     position: relative;
-    margin-top: 550px;
+    margin-top: 700px;
 
 }
