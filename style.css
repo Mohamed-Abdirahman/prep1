@@ -10,6 +10,16 @@ body{
     top: 30%;
 }
 
+.identity{
+    text-align:center;
+    text-transform: uppercase;
+    border: 2px solid orange;
+    border-radius: 30px;
+    width: 600px;
+    margin: 0 auto 0;
+    
+}
+
 .pic{
    width: 400px;
    clip-path: circle();
