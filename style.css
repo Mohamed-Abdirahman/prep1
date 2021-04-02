@@ -1,3 +1,23 @@
 body{
     background-color: #bdc3c7;
 }
+.image{
+    height: 70px;
+    margin-top: 0;
+    margin-bottom: 5px;
+    position: relative;
+    left: 30%;
+    top: 30%;
+}
+
+.pic{
+   width: 400px;
+   clip-path: circle();
+
+}
+
+.list{
+    position: relative;
+    margin-top: 550px;
+
+}
