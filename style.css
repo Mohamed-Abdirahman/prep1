@@ -56,8 +56,20 @@ h1, h2, h3, h4, h5{
 }
 .header{
     font-weight: 700;
-}
+    background-color: orange;
+    border-radius: 15px;
+    width: 20%;
+    text-align: center;
 
+}
+.about_me{
+    font-weight: 700;
+    background-color: orange;
+    border-radius: 15px;
+    width: 20%;
+    text-align: center;
+
+}
 li{
     float: left;
     padding-right: 50px;
@@ -65,4 +77,11 @@ li{
 
 .detail{
     margin-bottom: auto
+}
+
+footer {
+    background-color: orange;
+    height: 80px;
+    display: flex;
+    padding-left: 50px;
 }
