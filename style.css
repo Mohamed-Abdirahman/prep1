@@ -1,0 +1,87 @@
+body{
+    background-color: #bdc3c7;
+}
+.image{
+    height: 70px;
+    margin-top: 0;
+    margin-bottom: 5px;
+    position: relative;
+    left: 30%;
+    top: 20%;
+    padding-top: 0px;
+
+}
+
+.pic{
+   width: 400px;
+   clip-path: circle();
+
+}
+
+
+
+.identity{
+    color: black;
+    text-transform: uppercase;
+    background-color: orange;
+    border: 5px soli black;
+    border-radius: 50px;
+    font-size: large;
+    width: 30%; 
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+       
+}
+
+.list{
+    position: relative;
+   margin-top: 700px;
+   cursor: pointer;
+
+}
+
+a{
+    color: black;
+    
+}
+
+p{
+    padding-left: 20px;
+}
+
+h1, h2, h3, h4, h5{ 
+    text-align: center;
+}
+.header{
+    font-weight: 700;
+    background-color: orange;
+    border-radius: 15px;
+    width: 20%;
+    text-align: center;
+
+}
+.about_me{
+    font-weight: 700;
+    background-color: orange;
+    border-radius: 15px;
+    width: 20%;
+    text-align: center;
+
+}
+li{
+    float: left;
+    padding-right: 50px;
+}
+
+.detail{
+    margin-bottom: auto
+}
+
+footer {
+    background-color: orange;
+    height: 80px;
+    display: flex;
+    padding-left: 50px;
+}
